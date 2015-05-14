@@ -17,7 +17,7 @@ a look at the CMS `LFC <http://pypi.python.org/pypi/django-lfc>`_
 Changes
 =======
 
-1.2.1 (2014-05-10)
+1.2.2 (2014-05-10)
 ------------------
 
 * Fixes caching of roles
